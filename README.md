@@ -12,6 +12,7 @@ This is a Java application that analyzes weather data to determine if there is a
 
 - **Java**
 - **Spring**
+- **Redis**
 - **Maven** for dependency management
 - **JUnit** for unit testing
 - **Mockito** for mocking in tests
