@@ -11,8 +11,8 @@ This is a Java application that analyzes weather data to determine if there is a
 ## Tech Stack
 
 - **Java**
-- **Spring**
-- **Redis**
+- **Spring** for creating web service
+- **Redis** for weather data caching
 - **Maven** for dependency management
 - **JUnit** for unit testing
 - **Mockito** for mocking in tests
