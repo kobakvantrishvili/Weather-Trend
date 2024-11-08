@@ -1,6 +1,6 @@
 # Weather Trend Analyzer 🌦️
 
-This is a Java application that analyzes weather data to determine if there is a potential for migraine hazards.
+This is a Java application that analyzes weather data to determine if there is a potential for health hazards.
 
 ## Features
 
