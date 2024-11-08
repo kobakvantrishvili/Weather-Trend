@@ -5,7 +5,7 @@ This is a Java application that analyzes weather data to determine if there is a
 ## Features
 
 - **Weather Analysis**: Analyzes weather conditions like temperature, humidity, and pressure.
-- **Migraine Alerts**: Prints out warnings if weather conditions are likely to trigger migraines.
+- **Health complication Alerts**: Prints out warnings if weather conditions are likely to trigger health complications like migranes.
 - **Tested**: Fully tested with **JUnit** and **Mockito**.
 
 ## Tech Stack
